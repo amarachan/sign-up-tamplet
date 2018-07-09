@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(113, 113, 187);
+background-blend-mode: color-dodge;
+}
+
+#cel {
+    position: relative;
+    top: 80px;
+    background-color: rgba(229, 238, 224, 0.733);
+    height: 350px;
+    width: 300px;
+    padding: 10px 15px 10px 15px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.24), 0 6px 6px rgba(0, 0, 0, 0.267);
+}
+
+.cenbt {
+    position: relative;
+    left: 212px;
+    bottom: 29px;
+    background-color: rgb(57, 185, 185);
+}
+
+.radty {
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.240), 0 6px 6px rgba(0, 0, 0, 0.267);
+    position: relative;
+    left: 32px;
+    top: 20px;
+}
+.rad1 {
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.240), 0 6px 6px rgba(0, 0, 0, 0.267);
+    position: relative;
+    left: 32px;
+    top: 25px;
+    
+}
+.rad2 {
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.240), 0 6px 6px rgba(0, 0, 0, 0.267);
+    position: relative;
+    left: 32px;
+    top: 28px;
+    
+}
+.rad3{ 
+position: relative;
+    right: -42px;
+    top: 13px;
+}
