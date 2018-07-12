@@ -15,12 +15,6 @@ background-blend-mode: color-dodge;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.24), 0 6px 6px rgba(0, 0, 0, 0.267);
 }
 
-.cenbt {
-    position: relative;
-    left: 212px;
-    bottom: 29px;
-    background-color: rgb(57, 185, 185);
-}
 
 .radty {
     border-radius: 10px;
